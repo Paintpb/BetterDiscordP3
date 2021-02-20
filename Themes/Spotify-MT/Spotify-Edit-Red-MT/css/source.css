@@ -13,7 +13,7 @@
 
 	/*--button-background: #1a1a1a;*/
 	--button-background: rgba(0,0,0,0.2);
-	--button-border: 1px solid #b2b2b2;
+	--button-border: 1px solid #da2f2f;
 	--button-border-hover: 1px solid #fff;
 	--card-border: var(--bar-color);
 
@@ -27,10 +27,10 @@
 	--menu-hover-color-alt: #252525;
 	--menu-select-color: #4d4d4d;
 	--menu-border-color: #424242;
-	--menu-text-color: #b2b2b2;
+	--menu-text-color: #da2f2f;
 
 	--input-bg: #e0e0e0;
-	--input-text-color: rgb(211, 208, 208);
+	--input-text-color: rgb(0, 0, 0);
 	--input-placeholder-color: rgb(148, 144, 144);
 	--select-input-color: #363636;
 	--textarea-radius: 22px;
@@ -397,7 +397,7 @@ a,
 	height: 2px;
 	top: -10px;
 	left: 10px;
-	background: #2f3136;
+	background: #da2f2f;
 }
 
 .createJoinContainer-2Av064 .circleIconButton-jET_ig {
