@@ -3239,15 +3239,15 @@ a,
 }
 
 .container-CpszHS.recording-1H2dS7 {
-	border-color: rgba(47,218,98,0.9);
-	box-shadow: 0 0 9px rgba(47,218,98,0.6);
+	border-color: rgba(218, 47, 47, 0.9);
+	box-shadow: 0 0 9px rgba(218, 47, 47, 0.6);
 	color: #fff;
 	animation: shadowPulse-2kjgqQ 1s ease-in infinite;
 }
 
 @keyframes shadowPulse-2kjgqQ {
 	0% { box-shadow: 0 0 9px rgba(47,218,980.6) }
-	50% { box-shadow: 0 0 13px rgba(47,218,98,0.9) }
+	50% { box-shadow: 0 0 13px rgba(218, 47, 47, 0.9) }
 	to { box-shadow: 0 0 9px rgba(47,218,980.6) }
 }
 
