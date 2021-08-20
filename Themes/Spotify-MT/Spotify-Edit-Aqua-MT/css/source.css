@@ -1,10 +1,10 @@
 :root {
 	--accent-color: #2f96da;
-	--accent-hover: #2faef7;
-	--accent-rgb: rgba(47, 164, 218, 0.116);
+	--accent-hover: #3683da;
+	--accent-rgb: rgba(218, 47, 47, 0.116);
 	--alt-accent: #5680d4;
-	--alert-color: #f04747;
-	--alert-hover: #ff4c4c;
+	--alert-color: #47a4f0;
+	--alert-hover: #4cb4f0;
 
 	--chat-color: #1e1e1e;
 	--chat-box-color: #171717;
@@ -13,7 +13,7 @@
 
 	/*--button-background: #1a1a1a;*/
 	--button-background: rgba(0,0,0,0.2);
-	--button-border: 1px solid #b2b2b2;
+	--button-border: 1px solid #2f99f0;
 	--button-border-hover: 1px solid #fff;
 	--card-border: var(--bar-color);
 
@@ -27,10 +27,10 @@
 	--menu-hover-color-alt: #252525;
 	--menu-select-color: #4d4d4d;
 	--menu-border-color: #424242;
-	--menu-text-color: #b2b2b2;
+	--menu-text-color: #2f9bda;
 
 	--input-bg: #e0e0e0;
-	--input-text-color: rgb(211, 208, 208);
+	--input-text-color: rgb(0, 0, 0);
 	--input-placeholder-color: rgb(148, 144, 144);
 	--select-input-color: #363636;
 	--textarea-radius: 22px;
@@ -48,7 +48,7 @@
 }
 
 ::selection {
-	background: rgba(47, 178, 218, 0.5);
+	background: rgba(47, 164, 218, 0.5);
 	color: #fff !important;
 	text-shadow: none;
 }
@@ -397,7 +397,7 @@ a,
 	height: 2px;
 	top: -10px;
 	left: 10px;
-	background: #2f3136;
+	background: #da2f2f;
 }
 
 .createJoinContainer-2Av064 .circleIconButton-jET_ig {
@@ -1087,7 +1087,7 @@ a,
 
 .mentioned-xhSam7,
 .isMentioned-N-h9aa {
-	background-color: rgba(47,218,98,0.15) !important;
+	background-color: rgba(218, 47, 47, 0.15) !important;
 }
 
 .mentioned-xhSam7:before {
@@ -3239,15 +3239,15 @@ a,
 }
 
 .container-CpszHS.recording-1H2dS7 {
-	border-color: rgba(47,218,98,0.9);
-	box-shadow: 0 0 9px rgba(47,218,98,0.6);
+	border-color: rgba(218, 47, 47, 0.9);
+	box-shadow: 0 0 9px rgba(218, 47, 47, 0.6);
 	color: #fff;
 	animation: shadowPulse-2kjgqQ 1s ease-in infinite;
 }
 
 @keyframes shadowPulse-2kjgqQ {
 	0% { box-shadow: 0 0 9px rgba(47,218,980.6) }
-	50% { box-shadow: 0 0 13px rgba(47,218,98,0.9) }
+	50% { box-shadow: 0 0 13px rgba(218, 47, 47, 0.9) }
 	to { box-shadow: 0 0 9px rgba(47,218,980.6) }
 }
 
