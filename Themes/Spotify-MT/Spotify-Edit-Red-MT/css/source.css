@@ -2,7 +2,7 @@
 	--accent-color: #da2f2f;
 	--accent-hover: #f73636;
 	--accent-rgb: rgba(218, 47, 47, 0.116);
-	--alt-accent: #5680d4;
+	--alt-accent: #cc532e;
 	--alert-color: #f08b47;
 	--alert-hover: #ff8c4c;
 
@@ -369,7 +369,7 @@ a,
 
 /* SERVERS/GUILD LIST -> SERVER FOLDERS */
 
-.folderIconWrapper-226oVY[style="background-color: rgba(114, 137, 218, 0.4);"] {
+.folderIconWrapper-226oVY[style="background-color: rgb(218, 47, 47);"] {
 	background-color: var(--accent-rgb) !important;
 }
 
@@ -1660,7 +1660,7 @@ a,
 
 .topPill-30KHOu .itemSelected-1qLhcL,
 .topPill-30KHOu .item-PXvHYJ.selected-3s45Ha,
-.topPill-30KHOu .item-PXvHYJ[style*="background-color: rgba(67, 181, 129, 0.2); color: rgb(67, 181, 129);"] {
+.topPill-30KHOu .item-PXvHYJ[style*="background-color: rgba(181, 67, 67, 0.2); color: rgb(181, 67, 67);"] {
 	color: #fff !important;
 }
 
@@ -2823,7 +2823,7 @@ a,
 /* USER/SERVER SETTINGS -> SIDEBAR */
 
 .side-8zPYf6 .item-PXvHYJ,
-.side-8zPYf6 .item-PXvHYJ[style*="color: rgb(114, 137, 218)"],
+.side-8zPYf6 .item-PXvHYJ[style*="color: rgb(218, 47, 47)"],
 #bd-settings-sidebar .ui-tab-bar-item,
 #pubslayer .ui-tab-bar-item {
 	border-radius: 0;
@@ -2839,7 +2839,7 @@ a,
 }
 
 .side-8zPYf6 .item-PXvHYJ.selected-3s45Ha,
-.side-8zPYf6 .item-PXvHYJ.selected-3s45Ha[style*="color: rgb(255, 255, 255); background-color: rgb(114, 137, 218);"],
+.side-8zPYf6 .item-PXvHYJ.selected-3s45Ha[style*="color: rgb(255, 255, 255); background-color: rgb(218, 47, 47);"],
 #bd-settings-sidebar .ui-tab-bar-item.selected,
 #pubslayer .ui-tab-bar-item.selected {
 	position: relative;
@@ -3549,7 +3549,7 @@ a,
 
 .bd-pfbtn,
 .bda-slist .bda-footer button,
-#pubslayer button[style*="background-color: rgb(58, 193, 92)"],
+#pubslayer button[style*="background-color: rgb(218, 47, 47)"],
 .pluginrepo-modal .pluginEntry.downloadable .btn-download,
 .bda-slist li button,
 .plugin-settings .lookFilled-1Gx00P.colorBrand-3pXr91,
@@ -3711,7 +3711,7 @@ a,
 .button-1YfofB.buttonColor-7qQbGO.fauxDisabled-2ik0Vw,
 
 .bda-slist .bda-footer button:disabled,
-#pubslayer button[style*="background-color: rgb(58, 193, 92)"] {
+#pubslayer button[style*="background-color: rgb(218, 47, 47)"] {
 	transform: scale(1);
 	cursor: not-allowed;
 	opacity: 0.4 !important;
@@ -4147,13 +4147,13 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 
 .checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked + span,
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
-.checkbox-1ix_J3[style*="border-color: rgb(114, 137, 218)"] {
+.checkbox-1ix_J3[style*="border-color: rgb(218, 47, 47)"] {
 	background-color: var(--accent-color) !important;
 	border-color: var(--accent-color) !important;
 	transition: 300ms ease all !important;
 }
 
-.checkbox-1ix_J3[style*="border-color: rgb(114, 137, 218)"] polyline {
+.checkbox-1ix_J3[style*="border-color: rgb(218, 47, 47)"] polyline {
 	stroke: #fff !important;
 }
 
